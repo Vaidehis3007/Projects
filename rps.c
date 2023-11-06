@@ -65,4 +65,5 @@ int main(){
     }
 
     printf("Your choice was %c and computer's choice was %c.", you,computer);
+    printf("Thankyou for playing the game.")
 }
